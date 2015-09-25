@@ -14,15 +14,21 @@ Uma lista com "coisas", softwares, hardwares, blogs, tecnologias sobre Homelab. 
 
 ** EM CONSTRUÇÃO **
 
-## A
+## Sistemas Operacionais
 
-Distributions are organized into three different categories: for **beginners**, for **intermediate** users and for **advanced** users. In those categories, the distributions are organized in the alphabetical order.
-
-### aa
+### Linux Desktop
 
 #### [elementary OS](http://elementary.io/)
+#### 
 
-> elementary OS is a Linux distribution based on Ubuntu. It makes use of a desktop with its own shell named Pantheon, and is deeply integrated with other elementary OS applications like Plank (a dock), Midori (the default web browser) and Scratch (a simple text editor). This distribution uses Gala as its window manager, which is based on Mutter.
+### Linux Servers
+
+#### [Ubuntu Server](http://www.ubuntu.com/server)
+#### [CentOS] (https://www.centos.org)
+
+### Microsoft
+
+####
 
 [NethServer - UTM - OpenSource - http://www.nethserver.org/ - 17/09/2015] (http://www.nethserver.org/)
 
