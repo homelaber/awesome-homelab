@@ -32,9 +32,14 @@ Uma lista com "coisas", softwares, hardwares, blogs, tecnologias sobre Homelab. 
 
 [NethServer - UTM - OpenSource - http://www.nethserver.org/ - 17/09/2015] (http://www.nethserver.org/)
 
+* [VMware](http://vmware.com) - Site oficial da VMware
+
+#### [VMware](http://vmware.com)
+
 Reddit
 
 VMware Blogs
+* **Blog VMware Brasil (Não Oficial)** _by Tiago Martinez_ ~ [http://vmwarebrasil.blogspot.com.br/](http://vmwarebrasil.blogspot.com.br/)
 
 Homelab Blogs
 
